@@ -14,10 +14,10 @@
         <article>
             <h2>Sobre Nosotros</h2>
             <p>Nombre: Cristian Daniel Valeriano Hernandez</p>
-            <p>Desarrollador web con experiencia en PHP, HTML, CSS y tecnologías de contenedores como Docker.</p>
+            <p>Desarrollador web con experiencia en PHP, HTML, CSS y aprendiendo tecnologías de contenedores como Docker.</p>
         </article>
         <div>
-            <img src="https://via.placeholder.com/300" alt="Imagen del desarrollador" width="300">
+            <img src="img/cri.jpg" alt="Imagen del desarrollador" width="300">
         </div>
     </section>
     <footer>
